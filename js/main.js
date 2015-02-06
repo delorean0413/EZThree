@@ -1,0 +1,1 @@
+ezthree = new EZThree();
